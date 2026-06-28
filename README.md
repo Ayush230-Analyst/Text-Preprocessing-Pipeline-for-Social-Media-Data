@@ -119,7 +119,7 @@ The workflow demonstrates the complete pipeline from loading raw social media da
 The preprocessing pipeline used in this project follows a systematic sequence of text cleaning operations.
 
 <p align="center">
-<img src="images/preprocessing_pipeline.png" width="900">
+<img src="Images/preprocessing_pipeline.png" width="900">
 </p>
 
 ### Pipeline Steps
@@ -142,7 +142,7 @@ The preprocessing pipeline used in this project follows a systematic sequence of
 Before applying preprocessing techniques, the dataset was explored to understand its structure and identify common sources of noise such as URLs, hashtags, mentions, emojis, and special characters.
 
 <p align="center">
-<img src="images/data_understanding.png" width="900">
+<img src="Images/dataset_Understanding.png" width="900">
 </p>
 
 The initial exploration helped identify the cleaning requirements and guided the design of the preprocessing pipeline.
@@ -154,7 +154,7 @@ The initial exploration helped identify the cleaning requirements and guided the
 The preprocessing pipeline transforms noisy social media text into a clean and structured format suitable for NLP tasks.
 
 <p align="center">
-<img src="images/before_vs_after.png" width="900">
+<img src="Images/Before_vs_After.png" width="900">
 </p>
 
 ### Key Transformations
@@ -175,7 +175,7 @@ The preprocessing pipeline transforms noisy social media text into a clean and s
 The most frequently occurring words in the cleaned dataset were identified after preprocessing.
 
 <p align="center">
-<img src="images/word_frequency_bar_chart.png" width="850">
+<img src="Images/word_frequency_bar_chart.png" width="850">
 </p>
 
 This visualization highlights the dominant terms present in the processed social media data.
@@ -187,7 +187,7 @@ This visualization highlights the dominant terms present in the processed social
 A Word Cloud was generated to visualize the most frequently occurring words in the cleaned corpus.
 
 <p align="center">
-<img src="images/word_cloud.png" width="750">
+<img src="Images/word_cloud.png" width="750">
 </p>
 
 Larger words indicate higher frequency, providing a quick overview of the dominant topics within the dataset.
@@ -199,7 +199,7 @@ Larger words indicate higher frequency, providing a quick overview of the domina
 Bigram analysis identifies commonly occurring pairs of words after preprocessing.
 
 <p align="center">
-<img src="images/bigram_analysis.png" width="850">
+<img src="Images/Bigram_Analysis.png" width="850">
 </p>
 
 This analysis helps reveal contextual relationships between frequently co-occurring terms and provides deeper insight into text patterns.
