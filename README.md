@@ -53,22 +53,6 @@ The project demonstrates the importance of text preprocessing in improving data 
 
 ---
 
-##  Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Project Objectives](#-project-objectives)
-- [Dataset Information](#-dataset-information)
-- [Technologies Used](#-technologies-used)
-- [Project Workflow](#-project-workflow)
-- [Text Preprocessing Pipeline](#-text-preprocessing-pipeline)
-- [Project Structure](#-project-structure)
-- [Results and Visualizations](#-results-and-visualizations)
-- [Future Scope](#-future-scope)
-- [Repository Contents](#-repository-contents)
-- [Author](#-author)
-
----
-
 #  Dataset Information
 
 The project uses a **Twitter-like social media dataset** containing noisy textual data with informal language, hashtags, mentions, URLs, emojis, abbreviations, and punctuation.
