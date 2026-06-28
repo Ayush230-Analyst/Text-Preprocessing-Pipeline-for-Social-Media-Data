@@ -1,13 +1,24 @@
 #  Text Preprocessing Pipeline for Social Media Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Text Analytics](https://img.shields.io/badge/Text%20Analytics-007ACC?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge)
-![Natural Language Toolkit](https://img.shields.io/badge/Natural%20Language%20Toolkit-84BD00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![CSV Dataset](https://img.shields.io/badge/CSV%20Dataset-FF6F00?style=for-the-badge)
+## Table of Contents
 
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Dataset Information](#dataset-information)
+- [Technologies Used](#technologies-used)
+- [Project Workflow](#project-workflow)
+- [Text Preprocessing Pipeline](#text-preprocessing-pipeline)
+- [Data Understanding](#data-understanding)
+- [Before vs After Text Preprocessing](#before-vs-after-text-preprocessing)
+- [Word Frequency Analysis](#word-frequency-analysis)
+- [Word Cloud Visualization](#word-cloud-visualization)
+- [Bigram Analysis](#bigram-analysis)
+- [Project Structure](#project-structure)
+- [Key Features](#key-features)
+- [Results Summary](#results-summary)
+- [Future Scope](#future-scope)
+- [Repository Contents](#repository-contents)
+- [Author](#author)
 A complete NLP-based text preprocessing pipeline for cleaning, normalizing, and analyzing noisy social media data using Python, NLTK, and visualization techniques.
 
 ##  Project Overview
