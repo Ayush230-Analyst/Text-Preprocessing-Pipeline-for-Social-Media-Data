@@ -235,8 +235,6 @@ Text-Preprocessing-Pipeline-for-Social-Media-Data/
     └── Text_Preprocessing_Pipeline_Report.pdf
 ```
 
----
-
 #  Key Features
 
 - Complete end-to-end text preprocessing pipeline
