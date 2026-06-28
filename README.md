@@ -107,7 +107,7 @@ The project uses a **Twitter-like social media dataset** containing noisy textua
 The complete workflow followed in this project is illustrated below.
 
 <p align="center">
-<img src="images/project_workflow.png" width="850">
+<img src="Images/project_workflow.png" width="850">
 </p>
 
 The workflow demonstrates the complete pipeline from loading raw social media data to generating clean text and meaningful visualizations.
