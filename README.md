@@ -158,7 +158,7 @@ The initial exploration helped identify the cleaning requirements and guided the
 The preprocessing pipeline transforms noisy social media text into a clean and structured format suitable for NLP tasks.
 
 <p align="center">
-<img src="Images/Before_vs_After.png" width="900">
+<img src="Images/Before_vs_After_Preprocessing.png" width="900">
 </p>
 
 ### Key Transformations
@@ -293,6 +293,4 @@ Possible future enhancements include:
 MBA | Data Analytics | Python | SQL | Power BI | Excel | NLP
 
 ---
-
-## ⭐ If you found this project helpful, consider giving this repository a Star!
 
